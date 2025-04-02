@@ -1,0 +1,42 @@
+body {
+  width: 250px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+label, input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  display: inline-block;
+  width: 100px;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+#status {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#url-list {
+  margin-top: 15px;
+  list-style-type: none;
+  padding: 0;
+}
+
+#url-list li {
+  padding: 5px 0;
+}
+
+/* Content for styles.css, if needed */
+#queueRefresherButton {
+  margin-left: 10px;
+}
